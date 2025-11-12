@@ -3,7 +3,7 @@ https://harmoniaepic.github.io/chien-saisei-camera-pwa/
 
 ![](icons/chien-saisei-camera-pwa.png)
 
-上記リンク先を開いてご使用下さい。
+上記リンク先を開くか、上記QRコードを読み取ってご使用下さい。
 
 体育の授業で動きを確認するための遅延再生アプリです。生徒が自分の動きをその場で確認できるよう、最大90秒の遅延再生機能を提供します。[PWA（Progressive Web App）](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA)対応で、スマートフォンやタブレットにインストールして使用できます。
 
