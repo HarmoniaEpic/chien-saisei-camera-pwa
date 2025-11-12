@@ -21,7 +21,7 @@ https://harmoniaepic.github.io/chien-saisei-camera-pwa/
 ## 🚀 使い方
 
 ### オンラインで使用
-1. https://harmoniaepic.github.io/chien-saisei-camera-pwa/ にアクセス
+1. リンクまたはQRコードから https://harmoniaepic.github.io/chien-saisei-camera-pwa/ にアクセス
 2. カメラへのアクセスを許可
 3. 遅延時間を設定して「録画開始」をタップ
 
